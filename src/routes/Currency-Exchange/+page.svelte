@@ -3,7 +3,7 @@
 
 	import { onMount } from 'svelte';
 	import { writable, derived } from 'svelte/store';
-	let apiUrl = 'https://api.exchangerate-api.com/v4/latest/USD';
+	import { apiUrl } from '$lib/api';
 
 	let baseCurrency = writable('USD');
 	let amount = writable(1);
