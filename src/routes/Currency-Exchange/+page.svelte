@@ -30,7 +30,7 @@
 </script>
 
 <main class="flex min-h-screen flex-col items-center bg-gray-100 p-6">
-	<h1 class="mb-4 text-center text-6xl font-bold z-10 text-white" style="text-shadow: 0px 0px 30px #000000;">XchangeMate</h1>
+	<h1 class="mb-4 text-center text-6xl font-bold z-10 text-white" style="text-shadow: 0px 0px 30px #000000;">Welcome to My Currency Exchange App Converter</h1>
 	<div class="w-full max-w-2xl rounded-lg bg-white p-6 shadow-lg z-10 drop-shadow-[0_35px_35px_rgba(0,0,0,.8)] mt-5">
 		<h1 class="mb-4 text-center text-xl font-bold">Currency Exchange</h1>
 
